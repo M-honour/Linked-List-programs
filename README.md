@@ -1,15 +1,15 @@
 10 programs for each of the following
 
--Linked List with stacks
+1-Linked List with stacks
 
--Linked List with queues
+2-Linked List with queues
 
--Linked List with circular queues
+3-Linked List with circular queues
 
--Doubly Linked List with stacks
+4-Doubly Linked List with stacks
 
--Doubly Linked List with queues
+5-Doubly Linked List with queues
 
--Doubly Linked List with circular queues
+6-Doubly Linked List with circular queues
 
 NOTE: These are basic programs which only fulfill the question's requirements. Not all the checks and conditions have been applied
